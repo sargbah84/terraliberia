@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Terra Liberia",
+  "name": "We're an investment firm focused on helping to build the future of Liberia through investing in the country's most promising entrepreneurs. Our goal is to build a more prosperous and equitable future for all Liberians. Our area of focus currently are Agriculture, Real Estate, Transportation, Technology and Digital Content Development.",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "favicon/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "favicon/android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "favicon/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
