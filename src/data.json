@@ -6,7 +6,7 @@
             "name": "Terra Liberia",
             "keywords": "Agriculture, Real Estate, Transportation, Technology, Digital Content Development",
             "summary": "Agriculture, Real Estate, Transportation, Technology, and Digital Content Development",
-            "details": "We're an investment firm focused on helping to build the future of Liberia through investing in the country's most promising entrepreneurs. Our goal is to build a more prosperous and equitable future for all Liberians. Our area of focus currently are Agriculture, Real Estate, Transportation, Technology and Digital Content Development.",
+            "description": "We're an investment firm focused on helping to build the future of Liberia through investing in the country's most promising entrepreneurs. Our goal is to build a more prosperous and equitable future for all Liberians. Our current area of focus right now are Agriculture and Digital Content Development and we hope to include real estate as transportation in time to come.",
             "gallary": [
                 {
                     "id": 1,
@@ -31,24 +31,76 @@
             ],
             "team": [
                 {
-                    "id": 4,
+                    "id": 1,
                     "name": "Prince J. Sargbah",
-                    "position": "Managing Partner"
-                },
-                {
-                    "id": 3,
-                    "name": "Mike Lathrop",
-                    "position": "Managing Partner"
+                    "position": "Managing Partner",
+                    "avatar": "/assets/team/prince.jpg"
                 },
                 {
                     "id": 2,
-                    "name": "Rebecca Flomo",
-                    "position": "Acting President"
+                    "name": "Mike Lathrop",
+                    "position": "Managing Partner",
+                    "avatar": "/assets/team/mike.jpg"
                 },
                 {
-                    "id": 1,
+                    "id": 3,
+                    "name": "Rebecca T. Flomo",
+                    "position": "President",
+                    "avatar": "/assets/team/rebecca.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Likuna Datuashvili",
+                    "position": "Executive Assistant",
+                    "avatar": "/assets/team/lika.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Emmanuel Diggs",
+                    "position": "Rural Clerk",
+                    "avatar": "/assets/team/diggs.jpg"
+                },
+                {
+                    "id": 6,
                     "name": "Emmanuel Flomo",
-                    "position": "Manager of Operations"
+                    "position": "Farm Manager - Tuzon",
+                    "avatar": "/assets/team/flomo.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Marcus Gaye",
+                    "position": "Farm Manager - Bargblor Town",
+                    "avatar": "https://via.placeholder.com/300"
+                },
+                {
+                    "id": 8,
+                    "name": "Isaac Dolo",
+                    "position": "Farm Manager - Gorla",
+                    "avatar": "/assets/team/isaac.jpg"
+                },
+                {
+                    "id": 9,
+                    "name": "Aaron Flomo",
+                    "position": "Manager - TrueLiberia",
+                    "avatar": "/assets/team/aaron.jpg"
+                },
+                {
+                    "id": 10,
+                    "name": "Prince Nagbe",
+                    "position": "Manager of Security",
+                    "avatar": "/assets/team/nagbe.jpg"
+                },
+                {
+                    "id": 11,
+                    "name": "Alvin B. Tarr",
+                    "position": "Research Analyst",
+                    "avatar": "https://via.placeholder.com/300"
+                },
+                {
+                    "id": 12,
+                    "name": "Mathis S. Brown",
+                    "position": "Development Advocate",
+                    "avatar": "https://via.placeholder.com/300"
                 }
             ]
         }
