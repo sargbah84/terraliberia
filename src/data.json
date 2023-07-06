@@ -57,7 +57,7 @@
                 {
                     "id": 5,
                     "name": "Emmanuel Diggs",
-                    "position": "Rural Clerk",
+                    "position": "Rural Development Clerk",
                     "avatar": "/assets/team/diggs.jpg"
                 },
                 {
@@ -101,6 +101,30 @@
                     "name": "Mathis S. Brown",
                     "position": "Development Advocate",
                     "avatar": "https://via.placeholder.com/300"
+                },
+                {
+                    "id": 12,
+                    "name": "Lawrence Garteh",
+                    "position": "Live Broadcaster",
+                    "avatar": "/assets/team/lawrence.jpg"
+                },
+                {
+                    "id": 12,
+                    "name": "Leeton Quiah",
+                    "position": "Video Editor",
+                    "avatar": "/assets/team/leeton.jpg"
+                },
+                {
+                    "id": 12,
+                    "name": "Alexander Williams",
+                    "position": "Videographer",
+                    "avatar": "https://via.placeholder.com/300"
+                },
+                {
+                    "id": 12,
+                    "name": "Jestina Barclay",
+                    "position": "Office Assistant",
+                    "avatar": "/assets/team/jestina.jpg"
                 }
             ]
         }

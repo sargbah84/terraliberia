@@ -36,7 +36,7 @@ function App() {
         <div className="flex flex-col items-center">
           <div className="clearfix">
             <h1 className="text-green-200 text-6xl md:text-9xl font-bold text-center text-gray-800 mt-8 mb-4">
-              Our Work
+              Our Projects
             </h1>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-5 gap-4 items-center justify-center">
@@ -60,7 +60,7 @@ function App() {
                 42
               </h3>
               <p className="text-center text-gray-300">
-                acress cultivated
+                acres cultivated
               </p>
             </div>
             <div className="px-8">
