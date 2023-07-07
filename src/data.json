@@ -6,7 +6,7 @@
             "name": "Terra Liberia",
             "keywords": "Agriculture, Real Estate, Transportation, Technology, Digital Content Development",
             "summary": "Agriculture, Real Estate, Transportation, Technology, and Digital Content Development",
-            "description": "We're an investment firm focused on helping to build the future of Liberia through investing in the country's most promising entrepreneurs. Our goal is to build a more prosperous and equitable future for all Liberians. Our current area of focus right now are Agriculture and Digital Content Development and we hope to include real estate as transportation in time to come.",
+            "description": "We're an investment firm focused on helping to build the future of Liberia through investing in the country's most promising entrepreneurs. Our goal is to build a more prosperous and equitable future for all Liberians. Our current area of focus right now are Agriculture and Digital Content Development as we hope to include investments in Real Estate and Transportation in time to come.",
             "gallary": [
                 {
                     "id": 1,
@@ -51,7 +51,7 @@
                 {
                     "id": 4,
                     "name": "Likuna Datuashvili",
-                    "position": "Executive Assistant",
+                    "position": "Bookkeeper",
                     "avatar": "/assets/team/lika.jpg"
                 },
                 {
@@ -87,7 +87,7 @@
                 {
                     "id": 10,
                     "name": "Prince Nagbe",
-                    "position": "Manager of Security",
+                    "position": "Adminitrator",
                     "avatar": "/assets/team/nagbe.jpg"
                 },
                 {
