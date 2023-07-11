@@ -50,6 +50,12 @@
                 },
                 {
                     "id": 4,
+                    "name": "Konah Sargbah",
+                    "position": "Executive Director",
+                    "avatar": "/assets/team/konah.jpg"
+                },
+                {
+                    "id": 4,
                     "name": "Likuna Datuashvili",
                     "position": "Bookkeeper",
                     "avatar": "/assets/team/lika.jpg"
