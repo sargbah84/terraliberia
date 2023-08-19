@@ -57,77 +57,83 @@
                 {
                     "id": 4,
                     "name": "Likuna Datuashvili",
-                    "position": "Bookkeeper",
+                    "position": "Executive Bookkeeper",
                     "avatar": "/assets/team/lika.jpg"
                 },
                 {
                     "id": 5,
+                    "name": "Pst. Cyrus Thompson",
+                    "position": "Regional Manager",
+                    "avatar": "/assets/team/thompson.jpg"
+                },
+                {
+                    "id": 6,
                     "name": "Emmanuel Diggs",
                     "position": "Rural Development Clerk",
                     "avatar": "/assets/team/diggs.jpg"
                 },
                 {
-                    "id": 6,
+                    "id": 7,
                     "name": "Emmanuel Flomo",
                     "position": "Farm Manager - Tuzon",
                     "avatar": "/assets/team/flomo.jpg"
                 },
                 {
-                    "id": 7,
+                    "id": 8,
                     "name": "Marcus Gaye",
                     "position": "Farm Manager - Bargblor Town",
                     "avatar": "https://via.placeholder.com/300"
                 },
                 {
-                    "id": 8,
+                    "id": 9,
                     "name": "Isaac Dolo",
                     "position": "Farm Manager - Gorla",
                     "avatar": "/assets/team/isaac.jpg"
                 },
                 {
-                    "id": 9,
+                    "id": 10,
                     "name": "Aaron Flomo",
                     "position": "Manager - TrueLiberia",
                     "avatar": "/assets/team/aaron.jpg"
                 },
                 {
-                    "id": 10,
+                    "id": 11,
                     "name": "Prince Nagbe",
                     "position": "Adminitrator",
                     "avatar": "/assets/team/nagbe.jpg"
                 },
                 {
-                    "id": 11,
+                    "id": 12,
                     "name": "Alvin B. Tarr",
                     "position": "Research Analyst",
                     "avatar": "https://via.placeholder.com/300"
                 },
                 {
-                    "id": 12,
+                    "id": 13,
                     "name": "Mathis S. Brown",
                     "position": "Development Advocate",
                     "avatar": "https://via.placeholder.com/300"
                 },
                 {
-                    "id": 12,
+                    "id": 14,
                     "name": "Lawrence Garteh",
                     "position": "Live Broadcaster",
                     "avatar": "/assets/team/lawrence.jpg"
                 },
                 {
-                    "id": 12,
+                    "id": 15,
                     "name": "Leeton Quiah",
                     "position": "Video Editor",
                     "avatar": "/assets/team/leeton.jpg"
                 },
                 {
-                    "id": 12,
+                    "id": 16,
                     "name": "Alexander Williams",
                     "position": "Videographer",
                     "avatar": "https://via.placeholder.com/300"
                 },
                 {
-                    "id": 12,
+                    "id": 17,
                     "name": "Jestina Barclay",
                     "position": "Office Assistant",
                     "avatar": "/assets/team/jestina.jpg"
