@@ -75,19 +75,19 @@
                 {
                     "id": 7,
                     "name": "Emmanuel Flomo",
-                    "position": "Farm Manager - Tuzon",
+                    "position": "Local Manager - Tuzon",
                     "avatar": "/assets/team/flomo.jpg"
                 },
                 {
                     "id": 8,
                     "name": "Marcus Gaye",
-                    "position": "Farm Manager - Bargblor Town",
+                    "position": "Local Manager - Bargblor Town",
                     "avatar": "https://via.placeholder.com/300"
                 },
                 {
                     "id": 9,
                     "name": "Isaac Dolo",
-                    "position": "Farm Manager - Gorla",
+                    "position": "Local Manager - Gorla",
                     "avatar": "/assets/team/isaac.jpg"
                 },
                 {
@@ -137,6 +137,12 @@
                     "name": "Jestina Barclay",
                     "position": "Office Assistant",
                     "avatar": "/assets/team/jestina.jpg"
+                },
+                {
+                    "id": 18,
+                    "name": "Romeo Talue",
+                    "position": "Worker",
+                    "avatar": "https://via.placeholder.com/300"
                 }
             ]
         }
