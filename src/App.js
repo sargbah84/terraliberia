@@ -29,14 +29,14 @@ function App() {
               {data.description}
             </p>
             <h1 className="text-4xl font-bold text-center text-gray-800 mt-8 mb-4">
-              <a href="https://www.facebook.com/terraliberia" className="hover:text-emerald-600" rel="noreferrer" target='_blank'>Terra Cocoa</a> <span className="text-gray-300">|</span> <a href="https://www.trueliberia.com" className="hover:text-emerald-600" rel="noreferrer" target='_blank'>True Liberia</a> <span className="text-gray-300">|</span> <a href="#coming-soon" rel="noreferrer" className="text-gray-300">Terra Estates</a>
+              <a href="https://www.facebook.com/terraliberia" className="hover:text-emerald-600" rel="noreferrer" target='_blank'>Terra Cocoa</a> <span className="text-gray-300">|</span><a href="https://www.terramarketgroup.com" className="hover:text-emerald-600" rel="noreferrer" target='_blank'>Terra Market Group</a> <span className="text-gray-300">|</span> <a href="https://www.trueliberia.com" className="hover:text-emerald-600" rel="noreferrer" target='_blank'>True Liberia</a> <span className="text-gray-300">|</span> <a href="#coming-soon" rel="noreferrer" className="text-gray-300">Terra Estates</a>
             </h1>
           </div>
         </div>
         <div className="flex flex-col items-center">
           <div className="clearfix">
             <h1 className="text-green-200 text-6xl md:text-9xl font-bold text-center text-gray-800 mt-8 mb-4">
-              Our Projects
+              Communities
             </h1>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-5 gap-4 items-center justify-center">
