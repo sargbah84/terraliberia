@@ -1,5 +1,5 @@
 import json from './data.json';
-import logo from './assets/logo.png';
+import logo from './assets/logo-main.png';
 import './App.css';
 
 function App() {
