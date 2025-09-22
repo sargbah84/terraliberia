@@ -3,10 +3,10 @@
     "updated_at": "2023-04-22",
     "data": [
         {
-            "name": "Terra Liberia",
+            "name": "Terra Investment Group",
             "keywords": "Agriculture, Real Estate, Transportation, Technology, Digital Content Development",
             "summary": "Agriculture, Real Estate, Transportation, Technology, and Digital Content Development",
-            "description": "We're an investment firm focused on helping to build the future of Liberia through investing in the country's most promising entrepreneurs. Our goal is to build a more prosperous and equitable future for all Liberians. Our current area of focus right now are Agriculture, Digital Marketing, Software Engineering and Digital Content Development as we hope to include investments in Real Estate and Transportation in time to come.",
+            "description": "Terra Investment Group - formerly known as Terra Liberia is an investment firm focused on helping to build the future of Liberia through investing in the country's most promising entrepreneurs. Our goal is to build a more prosperous and equitable future for all Liberians. Our current area of focus right now are Agriculture, Digital Marketing, Software Engineering and Digital Content Development as we hope to include investments in Real Estate and Transportation in time to come.",
             "gallary": [
                 {
                     "id": 1,
@@ -66,35 +66,35 @@
                     "position": "Regional Manager",
                     "avatar": "/assets/team/thompson.jpg"
                 },
+                                {
+                    "id": 10,
+                    "name": "Aaron Flomo",
+                    "position": "Manager - TrueLiberia",
+                    "avatar": "/assets/team/aaron.jpg"
+                },
                 {
                     "id": 6,
                     "name": "Emmanuel Diggs",
-                    "position": "Rural Development Clerk",
+                    "position": "Caretaker - Bargblor Town",
                     "avatar": "/assets/team/diggs.jpg"
                 },
                 {
                     "id": 7,
                     "name": "Emmanuel Flomo",
-                    "position": "Local Manager - Tuzon",
+                    "position": "Caretaker - Tuzon",
                     "avatar": "/assets/team/flomo.jpg"
                 },
                 {
                     "id": 8,
                     "name": "Marcus Gaye",
-                    "position": "Local Manager - Bargblor Town",
+                    "position": "Caretaker - Bargblor Town",
                     "avatar": "https://via.placeholder.com/300"
                 },
                 {
                     "id": 9,
                     "name": "Isaac Dolo",
-                    "position": "Local Manager - Gorla",
+                    "position": "Caretaker - Gorla",
                     "avatar": "/assets/team/isaac.jpg"
-                },
-                {
-                    "id": 10,
-                    "name": "Aaron Flomo",
-                    "position": "Manager - TrueLiberia",
-                    "avatar": "/assets/team/aaron.jpg"
                 },
                 {
                     "id": 11,
@@ -104,14 +104,14 @@
                 },
                 {
                     "id": 12,
-                    "name": "Alvin B. Tarr",
+                    "name": "Autry Q. Suku Jr.",
                     "position": "Research Analyst",
                     "avatar": "https://via.placeholder.com/300"
                 },
                 {
                     "id": 13,
-                    "name": "Mathis S. Brown",
-                    "position": "Development Advocate",
+                    "name": "Deborah T. Kollie",
+                    "position": "Office Secretary",
                     "avatar": "https://via.placeholder.com/300"
                 },
                 {
@@ -121,27 +121,9 @@
                     "avatar": "/assets/team/lawrence.jpg"
                 },
                 {
-                    "id": 15,
-                    "name": "Leeton Quiah",
-                    "position": "Video Editor",
-                    "avatar": "/assets/team/leeton.jpg"
-                },
-                {
                     "id": 16,
                     "name": "Alexander Williams",
                     "position": "Videographer",
-                    "avatar": "https://via.placeholder.com/300"
-                },
-                {
-                    "id": 17,
-                    "name": "Jestina Barclay",
-                    "position": "Office Assistant",
-                    "avatar": "/assets/team/jestina.jpg"
-                },
-                {
-                    "id": 18,
-                    "name": "Romeo Talue",
-                    "position": "Worker",
                     "avatar": "https://via.placeholder.com/300"
                 }
             ]

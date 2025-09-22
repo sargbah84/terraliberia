@@ -116,7 +116,7 @@ function App() {
           </div>
         </div>
         <div className="flex flex-col items-center justify-center mt-20 text-center">
-          <p className="text-gray-500">&copy; { date.getFullYear() } <a href="/" className="decoration-underline">Terra Group of Companies</a>, All Rights Reserved</p>
+          <p className="text-gray-500">&copy; { date.getFullYear() } <a href="/" className="decoration-underline">Terra Investment Group</a>, All Rights Reserved</p>
         </div>
       </div>
     </main>
