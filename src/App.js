@@ -14,8 +14,8 @@ function App() {
             <img
               className="relative"
               src={logo}
-              alt="Terra Liberia"
-              width={300}
+              alt="Terra Investment Group"
+              width={500}
               height="auto"
             />
           </a>
